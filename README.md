@@ -3,6 +3,7 @@
 - 😄 I enjoy creating coding tutorials and working with static site generators like Eleventy and documentation generators like Starlight.
 - 🔭 I’m currently working on creating demo sites for Docusaurus, VitePress, Nextra, and Hugo to add to my portfolio.
 - 🌱 I’m currently learning more about technical writing and JS frameworks like React, Vue, Svelte, Angular, and Next.js.
+- 💬 I’m currently looking for a technical writer or web developer role.
 
 <!--
 **jhonkaman/jhonkaman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
