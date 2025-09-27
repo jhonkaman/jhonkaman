@@ -1,6 +1,6 @@
 ## Hi there! I'm Javier. 👋
 ### I'm a technical writer and accessibility specialist.
-- 😄 I have several years of experience working with Markdown, Git, GitHub, and static site generators.
+- ⏳ I have several years of experience working with Markdown, Git, GitHub, and static site generators.
 - 🔭 I’m currently working on creating demo sites for Docusaurus, VitePress, Nextra, and Hugo to add to my portfolio.
 - 🌱 I’m currently learning more about technical writing and JS frameworks like React, Vue, Svelte, Angular, and Next.js.
 - 💼 I’m currently looking for a technical writer or accessibility role.
